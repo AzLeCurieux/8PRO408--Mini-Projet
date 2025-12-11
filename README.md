@@ -13,8 +13,7 @@ Ce projet propose une analyse exploratoire du catalogue Netflix (films et série
 
 1.  Cloner ce dépôt :
     ```bash
-    git clone <votre-repo-url>
-    cd <dossier-du-projet>
+    git clone https://github.com/AzLeCurieux/8PRO408--Mini-Projet
     ```
 
 2.  Installer les dépendances :
@@ -47,6 +46,7 @@ Une version deployé existe aussi ( `https://8pro408--mini-projet.streamlit.app/
 - **KPIs** : Visualisez rapidement le nombre total de titres.
 - **Graphiques Interactifs** : Explorez la répartition des genres, l'évolution temporelle et la distribution géographique.
 - **Données** : Accédez aux données brutes filtrées.
+
 
 
 
