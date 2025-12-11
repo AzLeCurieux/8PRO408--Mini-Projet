@@ -40,13 +40,14 @@ L'application s'ouvrira dans votre navigateur par défaut (généralement à l'a
 
 Une version deployé existe aussi ( `https://8pro408--mini-projet.streamlit.app/` ) 
 
-[Le StreamLint]([https://duckduckgo.com](https://8pro408--mini-projet.streamlit.app/))
+[Le StreamLint](https://8pro408--mini-projet.streamlit.app/)
 
 ## Fonctionnalités de l'application
 - **Filtres** : Filtrez par type (Film/Série), pays et année d'ajout.
 - **KPIs** : Visualisez rapidement le nombre total de titres.
 - **Graphiques Interactifs** : Explorez la répartition des genres, l'évolution temporelle et la distribution géographique.
 - **Données** : Accédez aux données brutes filtrées.
+
 
 
 
